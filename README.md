@@ -5,8 +5,8 @@
 My key skills in data science projects include EDA(Exploratory data analysis)
 
 Skills:
-        * Python
-        * Machine Learning
+* Python
+* Machine Learning
         * Deep Learning
         * SQL
         * Tableau
