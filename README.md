@@ -1,16 +1,14 @@
-### Hi there 👋
+## My name is Abdullah
 
-<!--
-**abdullah1509/abdullah1509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am an aspiring Data Science enthusiast, with skills in Data Science, Machine Learning, and Deep Learning.I've worked on minor projects using frameworks such as Tensorflow, Keras, Scikit-learn, and SciPy. I am also having good programming skills in Python, SQL, and HTML along with CSS3
 
-Here are some ideas to get you started:
+My key skills in data science projects include EDA(Exploratory data analysis)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:
+        • Python
+        • Machine Learning
+        • Deep Learning
+        • SQL
+        • Tableau
+        
+
