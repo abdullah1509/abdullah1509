@@ -12,3 +12,5 @@ Skills:
 * Tableau
         
 
+### Contact
+![Linkedin-icon](https://user-images.githubusercontent.com/58501537/140074126-2a9c2c61-e5df-45c2-9413-ece1efd836f3.png)  https://www.linkedin.com/in/abdullah-3008a7b6/
