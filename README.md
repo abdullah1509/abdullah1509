@@ -20,5 +20,4 @@ Skills:
 ![4519136_kaggle_icon](https://user-images.githubusercontent.com/58501537/147413264-6624c5b4-a2b7-46f9-9b77-84dedff81379.png)  https://www.kaggle.com/abdullah1509
 
 
-![icons8-portfolio-32](https://user-images.githubusercontent.com/58501537/170930108-c95464b5-aeb1-4a64-b80b-c1bcd8e9ac81.png)
-https://recommend-some-movie.herokuapp.com/
+![icons8-portfolio-32](https://user-images.githubusercontent.com/58501537/170930108-c95464b5-aeb1-4a64-b80b-c1bcd8e9ac81.png) https://recommend-some-movie.herokuapp.com/
