@@ -19,5 +19,6 @@ Skills:
 
 ![4519136_kaggle_icon](https://user-images.githubusercontent.com/58501537/147413264-6624c5b4-a2b7-46f9-9b77-84dedff81379.png)  https://www.kaggle.com/abdullah1509
 
-![suitcase](https://user-images.githubusercontent.com/58501537/170929637-5008e834-128d-4aa0-b360-be986b89606c.png)
+
+![icons8-portfolio-64](https://user-images.githubusercontent.com/58501537/170929819-b44bf02c-af52-4ba0-a065-d8ecd08b08e9.png)
 https://recommend-some-movie.herokuapp.com/
