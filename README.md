@@ -8,8 +8,10 @@ Skills:
 * Python
 * Machine Learning
 * Deep Learning
+* Data Analysis
 * SQL
 * Tableau
+* Power BI
         
 
 ### Contact
