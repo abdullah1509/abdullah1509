@@ -8,8 +8,11 @@ Skills:
 * Python
 * Machine Learning
 * Deep Learning
+* Web Scrapping
 * Data Analysis
-* SQL
+* MySQL
+* Statistics
+* Streamlit
 * Tableau
 * Power BI
         
