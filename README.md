@@ -3,7 +3,8 @@
 
 ## About Me
 
-#### I am an aspiring Data Science enthusiast, with skills in Data Science, Machine Learning, and Deep Learning. I've worked on minor projects using frameworks such as Tensorflow, Keras, Scikit-learn, and SciPy. I am also having good programming skills in Python, SQL, and HTML along with CSS3
+wave Hi, I’m Abdullah 
+eyes I’m interested in Data Science, Artificial Intelligence , and machine learning
 
 My key skills in data science projects include EDA(Exploratory data analysis) and Machine Learning model implementation.
 
