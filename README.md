@@ -3,8 +3,13 @@
 
 ## About Me
 
-wave Hi, I’m Abdullah 
-eyes I’m interested in Data Science, Artificial Intelligence , and machine learning
+:wave: Hi, I’m Abdullah
+
+:eyes: I’m interested in Data Science, Artificial Intelligence , and Latest Technologies
+
+:student: I've completed Masters in Data Science from Jamia Hamdard University
+
+:mailbox: Find all my contacts from Social Section
 
 My key skills in data science projects include EDA(Exploratory data analysis) and Machine Learning model implementation.
 
