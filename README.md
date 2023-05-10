@@ -1,4 +1,4 @@
-![abi-pic](https://github.com/abdullah1509/abdullah1509/assets/58501537/73a63da7-a6a9-4e9e-861c-7378625930b9)
+![abi-pic1](https://github.com/abdullah1509/abdullah1509/assets/58501537/27a6e973-f893-4788-ba09-a62510ac9312)
 
 
 ## About Me
