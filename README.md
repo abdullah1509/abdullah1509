@@ -1,3 +1,5 @@
+![abi-pic1](https://github.com/abdullah1509/abdullah1509/assets/58501537/547418ac-452b-4fdf-a5d9-1828f65b25fc)
+
 ## My name is Abdullah
 
 #### I am an aspiring Data Science enthusiast, with skills in Data Science, Machine Learning, and Deep Learning. I've worked on minor projects using frameworks such as Tensorflow, Keras, Scikit-learn, and SciPy. I am also having good programming skills in Python, SQL, and HTML along with CSS3
