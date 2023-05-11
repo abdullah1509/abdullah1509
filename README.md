@@ -13,7 +13,8 @@
 
 
 
-## :globe_with_meridians: Social
+
+## :handshake: Connect With Me
 
 ![icons8-linkedin-32](https://github.com/abdullah1509/abdullah1509/assets/58501537/cde7ddb8-5089-4f03-9653-fc1c898ede1b)
 ![github](https://github.com/abdullah1509/abdullah1509/assets/58501537/f4ad78a4-1c1c-4388-a8e2-84e55093147f) 
