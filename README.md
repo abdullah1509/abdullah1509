@@ -1,7 +1,7 @@
 ![abi-pic1](https://github.com/abdullah1509/abdullah1509/assets/58501537/27a6e973-f893-4788-ba09-a62510ac9312)
 
 
-## About Me
+## 👦 About Me
 
 :wave: Hi, I’m Abdullah
 
@@ -13,10 +13,9 @@
 
 
 
-## Social
+## :globe_with_meridians: Social
 
 
-![linkedin](https://github.com/abdullah1509/abdullah1509/assets/58501537/3524c5ff-b790-4211-9e06-4c210bdd7bca)
 
 
 
