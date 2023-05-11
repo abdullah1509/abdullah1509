@@ -22,7 +22,11 @@
 ![icons8-discord-32](https://github.com/abdullah1509/abdullah1509/assets/58501537/174dc94a-ff02-4abf-9562-1fbf25848384)
 ![hackerrank](https://github.com/abdullah1509/abdullah1509/assets/58501537/c3356c7f-3938-441c-abe9-b377053cde81)
 
-
+<div id="badges">
+  <a href="https://www.linkedin.com/in/abdullah-3008a7b6/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 
 
