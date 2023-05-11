@@ -15,7 +15,13 @@
 
 ## :globe_with_meridians: Social
 
-[![LinkedIn](Images/linkedin.png)]
+![icons8-linkedin-32](https://github.com/abdullah1509/abdullah1509/assets/58501537/cde7ddb8-5089-4f03-9653-fc1c898ede1b)
+![github](https://github.com/abdullah1509/abdullah1509/assets/58501537/f4ad78a4-1c1c-4388-a8e2-84e55093147f) 
+![stack-overflow](https://github.com/abdullah1509/abdullah1509/assets/58501537/c905522e-9fcc-4cc3-9633-349845313fb4)
+![icons8-discord-32](https://github.com/abdullah1509/abdullah1509/assets/58501537/174dc94a-ff02-4abf-9562-1fbf25848384)
+![hackerrank](https://github.com/abdullah1509/abdullah1509/assets/58501537/c3356c7f-3938-441c-abe9-b377053cde81)
+
+
 
 
 
