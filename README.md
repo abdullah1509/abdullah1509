@@ -14,7 +14,9 @@
 
 
 ## Social
-![LinkedIn](![linkedin](https://github.com/abdullah1509/abdullah1509/assets/58501537/97778187-8fcd-4899-9e09-e36c074090b3))
+
+
+![linkedin](https://github.com/abdullah1509/abdullah1509/assets/58501537/3524c5ff-b790-4211-9e06-4c210bdd7bca)
 
 
 
