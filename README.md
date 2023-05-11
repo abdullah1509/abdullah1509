@@ -16,10 +16,6 @@
 
 ## :handshake: Connect With Me
 
-![stack-overflow](https://github.com/abdullah1509/abdullah1509/assets/58501537/c905522e-9fcc-4cc3-9633-349845313fb4)
-![icons8-discord-32](https://github.com/abdullah1509/abdullah1509/assets/58501537/174dc94a-ff02-4abf-9562-1fbf25848384)
-![hackerrank](https://github.com/abdullah1509/abdullah1509/assets/58501537/c3356c7f-3938-441c-abe9-b377053cde81)
-
 <div id="badges">
   <a href="https://www.linkedin.com/in/abdullah-3008a7b6/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -29,6 +25,12 @@
   </a>
   <a href="https://stackoverflow.com/users/17241846/abdullah/">
     <img src="https://img.shields.io/badge/Stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://discord.gg/c8vVnqxx">
+    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://www.hackerrank.com/mdabdullah1509">
+    <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrankd&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
 
