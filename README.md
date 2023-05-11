@@ -49,10 +49,3 @@
         
 
 ![Profile views](https://gpvc.arturio.dev/mdabdullah1509)
-
-### 🤝 Connect With Me
-![Linkedin-icon](https://user-images.githubusercontent.com/58501537/140074126-2a9c2c61-e5df-45c2-9413-ece1efd836f3.png)  https://www.linkedin.com/in/abdullah-3008a7b6/
-
-![teams-logo-compact](https://user-images.githubusercontent.com/58501537/140074828-98d8b529-31ed-4042-b2f1-37c9c771d366.png)  https://stackoverflow.com/users/17241846/abdullah
-
-![4519110_hackerrank_icon](https://user-images.githubusercontent.com/58501537/183242120-df0c81dc-dca7-4f4b-8e8d-9f15d6528a39.png) https://www.hackerrank.com/mdabdullah1509
