@@ -32,6 +32,9 @@
   <a href="https://www.hackerrank.com/mdabdullah1509">
     <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrankd&logoColor=white" alt="Youtube Badge"/>
   </a>
+  <a href="https://www.facebook.com/abdullah1509/">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebookd&logoColor=white" alt="Youtube Badge"/>
+  </a>
 </div>
 
 
@@ -48,6 +51,3 @@
 
 ## 📊 GitHub Stats
 ![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullah1509&show_icons=true&theme=radical)
-
-
-![Profile views](https://gpvc.arturio.dev/mdabdullah1509)
