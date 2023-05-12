@@ -35,6 +35,9 @@
   <a href="https://www.facebook.com/abdullah1509/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebookd&logoColor=white" alt="Youtube Badge"/>
   </a>
+  <a href="https://join.skype.com/invite/xdJZFmOQlQoh">
+    <img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" alt="Youtube Badge"/>
+  </a>
 </div>
 
 
