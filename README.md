@@ -53,6 +53,6 @@
 
 
 ## 📊 GitHub Stats
-![Abdullah's GitHub stats](![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah1509&layout=compact&theme=radical)))
+![Abdullah's GitHub stats]()
 
 
