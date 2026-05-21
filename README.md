@@ -56,3 +56,8 @@
 ![Abdullah's GitHub stats](![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=abdullah1509&show_icons=true&theme=radical))
 
 
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullah1509&show_icons=true&theme=radical" />
+</p>
