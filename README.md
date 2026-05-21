@@ -53,6 +53,6 @@
 
 
 ## 📊 GitHub Stats
-![Abdullah's GitHub stats]()
+![Abdullah's GitHub stats](![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=abdullah1509&show_icons=true&theme=radical))
 
 
