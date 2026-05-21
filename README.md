@@ -53,6 +53,6 @@
 
 
 ## 📊 GitHub Stats
-![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullah1509&show_icons=true&theme=radical)
+![Abdullah's GitHub stats](![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullah1509&show_icons=true&theme=radical&cache_seconds=1800))
 
 
